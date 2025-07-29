@@ -1,10 +1,10 @@
-<h1 align="center">Olá! Eu sou a Débora 👋</h1>
+# 👋 Olá! Eu sou a Débora
 
-<h2 align="left">🗨 Sobre mim:</h2>
+## 🗨 Sobre mim
 
- - 👨‍🎓 Sou formada em História da Arte pela UERJ, onde participei do projeto "Arte como Valor" que analisava o Mercado de Arte no Rio de Janeiro
- - 📊 Participei do Bootcamp Data Analytics da WoMakersCode 
- - ✨ Sou movida pela curiosidade e criatividade, com uma tendência natural a explorar diversas áreas e novas abordagens
+- 🎓 Sou formada em História da Arte pela UERJ, onde participei do projeto "Arte como Valor", que analisava o Mercado de Arte no Rio de Janeiro.  
+- 📊 Participei do Bootcamp Data Analytics da WoMakersCode.  
+- ✨ Sou movida pela curiosidade e criatividade, com uma tendência natural a explorar diversas áreas e novas abordagens.
 
 ## 🖥 Tech Skills
 
